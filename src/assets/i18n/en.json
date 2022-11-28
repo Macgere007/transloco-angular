@@ -1,0 +1,23 @@
+{
+  "Scan for Charging":"Scan for Charging",
+  "Active Charger":"Active Charger",
+  "Charging Activated":"Charging Activated",
+  "Hyundai charger is being free for now":"Hyundai charger is being free for now",
+  "Hyundai charger is offline for now. Call Costumer Center Please !!":"Hyundai charger is offline for now. Call Costumer Center Please !!",
+  "Active":"Active",
+  "Costumer Center":"Costumer Center",
+  "Connector ID":"Connector ID",
+  "TRANSACTION":"TRANSACTION",
+  "Session ID":"Session ID",
+  "Type Connector":"Type Connector",
+  "Start time":"Start time",
+  "End time":"End time",
+  "Your charging is expected to be":"Your charging is expected to be",
+  "token is expired, please re-scan barcode":"token is expired, please re-scan barcode",
+  "finished by":"finished by",
+  "Adds to my calender":"Adds to my calender",
+  "Date Transaction":"Date Transaction",
+  "Duration": "Duration",
+  "minutes":"minutes",
+  "Speed":"Speed"
+}

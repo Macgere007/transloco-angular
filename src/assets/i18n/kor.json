@@ -1,0 +1,25 @@
+{
+    "Scan for Charging": "충전을 위해 스캔",
+    "Active Charger": "액티브 차저",
+    "Charging Activated": "충전 활성화됨",
+    "Hyundai charger is being free for now": "현대 충전기는 현재 무료입니다",
+    "Hyundai charger is offline for now. Call Costumer Center Please !!":"현대차저는 현재 오프라인 상태입니다. 고객센터로 전화주세요!!",
+    "Active": "활성화",
+    "Costumer Center": "고객 센터",
+    "Connector ID":"ID 커넥터",
+    "TRANSACTION": "거래",
+    "Session ID":"세션 ID",
+    "Type Connector":"유형 커넥터",
+    "Start time": "시작 시간",
+    "End time": "종료 시간",
+    "Your charging is expected to be":"귀하의 충전 예정",
+    "token is expired, please re-scan barcode":"토큰이 만료되었습니다. 바코드를 다시 스캔하십시오.",
+    "finished by":"마무리",
+    "Adds to my calender": "내 캘린더에 추가",
+    "Charging Energy":"충전 에너지",
+    "Date Transaction":"날짜 거래",
+    "Duration":"지속",
+    "minutes":"분",
+    "Speed":"속도"
+
+}
