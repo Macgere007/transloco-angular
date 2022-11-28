@@ -7,12 +7,10 @@
     <div translate>
         Active Charger
     </div>
-    <!-- detail station line 22-25 -->
-    <div [class]="status == 'Charging' ? 'text-xl flex justify-center animate-pulse text-blue-800' : 'text-xl flex justify-center'">
-        <div class="mx-14">
-           {{type_connector |translate}}
-        </div>
-    <!-- Charger Page line 45-47 -->
-    <div (click)="timeDown == 0 && checkPlugCharge(0)" *ngIf="isOnline" [class]="timeDown != 0 ? 'h-full bg-gray-400 shadow-lg rounded-lg flex items-center justify-center' : status == 'Available' ? 'h-full bg-blue-300 hover:bg-blue-200 active:bg-blue-400 shadow-lg rounded-lg flex items-center justify-center cursor-pointer' : 'h-full bg-green-500 hover:bg-green-400 active:bg-green-600 shadow-lg rounded-lg flex items-center justify-center cursor-pointer'">
-        {{timeDown != 0 ? 'Plug the Cable in ' + timeDown + ' s' : 'Active' | translate }}
-    </div>
+    <!-- detail station line 24 -->
+           <!-- {{type_connector |translate}} -->
+   
+    <!-- Charger Page line 46 -->
+
+        <!-- {{timeDown != 0 ? 'Plug the Cable in ' + timeDown + ' s' : 'Active' | translate }} -->
+   
