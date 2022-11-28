@@ -1,11 +1,13 @@
 {
     "Scan for Charging": "충전을 위해 스캔",
     "Active Charger": "액티브 차저",
+    "Charging Offline":"오프라인 충전",
     "Charging Activated": "충전 활성화됨",
     "Hyundai charger is being free for now": "현대 충전기는 현재 무료입니다",
     "Hyundai charger is offline for now. Call Costumer Center Please !!":"현대차저는 현재 오프라인 상태입니다. 고객센터로 전화주세요!!",
     "Active": "활성화",
     "Costumer Center": "고객 센터",
+    "Customer Service":"고객 서비스",
     "Connector ID":"ID 커넥터",
     "TRANSACTION": "거래",
     "Session ID":"세션 ID",
@@ -22,6 +24,7 @@
     "minutes":"분",
     "Speed":"속도",
     "Type 2":"유형 2",
-    "Plug the Cable in ":"케이블을 연결하세요 "
+    "Plug the Cable in ":"케이블을 연결하세요 ",
+    " This Connector Status Is Charging, Search an other Connector or wait for the minutes":" 이 커넥터 상태는 충전 중입니다. 다른 커넥터를 검색하거나 몇 분 동안 기다리십시오"
 
 }

@@ -1,11 +1,13 @@
 {
   "Scan for Charging":"Pindai Pengisian",
   "Active Charger":"Pengisi Daya Aktif ",
+  "Charging Offline":"Pengisian Offline",
   "Charging Activated":"Pengisian Diaktifkan",
   "Hyundai charger is being free for now":"Pengisi daya Hyundai gratis untuk saat ini",
   "Hyundai charger is offline for now. Call Costumer Center Please !!":"Pengisi daya Hyundai sedang offline untuk saat ini. Silakan Hubungi Costumer Center!!",
   "Active":"Aktif",
   "Costumer Center":"Pusat Bantuan",
+  "Customer Service":"Pusat Pelayanan",
   "Connector ID":"Konektor ID",
   "TRANSACTION":"TRANSAKSI",
   "Session ID":"ID Sesi",
@@ -22,5 +24,6 @@
   "minutes":"menit",
   "Speed":"Kecepatan",
   "Type 2":"Tipe 2",
-  "Plug the Cable in ":"Pasang Kabel sebelum "
+  "Plug the Cable in ":"Pasang Kabel sebelum ",
+  " This Connector Status Is Charging, Search an other Connector or wait for the minutes":"Status Konektor Ini Sedang Mengisi Daya, Cari Konektor lain atau tunggu beberapa menit"
 }

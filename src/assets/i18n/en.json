@@ -1,11 +1,13 @@
 {
   "Scan for Charging":"Scan for Charging",
   "Active Charger":"Active Charger",
+  "Charging Offline":"Charging Offline",
   "Charging Activated":"Charging Activated",
   "Hyundai charger is being free for now":"Hyundai charger is being free for now",
   "Hyundai charger is offline for now. Call Costumer Center Please !!":"Hyundai charger is offline for now. Call Costumer Center Please !!",
   "Active":"Active",
   "Costumer Center":"Costumer Center",
+  "Customer Service":"Customer Service",
   "Connector ID":"Connector ID",
   "TRANSACTION":"TRANSACTION",
   "Session ID":"Session ID",
@@ -21,5 +23,6 @@
   "minutes":"minutes",
   "Speed":"Speed",
   "Type 2":"Type 2",
-  "Plug the Cable in ":"Plug the Cable in "
+  "Plug the Cable in ":"Plug the Cable in ",
+  "This Connector Status Is Charging, Search an other Connector or wait for the minutes":" This Connector Status Is Charging, Search an other Connector or wait for the minutes"
 }
